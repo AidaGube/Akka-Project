@@ -5,8 +5,8 @@
       <form class="apply-form__form">
         <div class="apply-form__left">
           <div>
-            <Input />
-            <Input />
+            <Input/>
+            <Input/>
           </div>
           <div>
             <Input />
